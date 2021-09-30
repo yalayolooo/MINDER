@@ -5,11 +5,7 @@
 }
 
 .app-header h1 {
-  width: 300px;
-  height: 100px;
   font-size: 26px;
-  display: flex;
-  align-items: flex-end;
 }
 
 .app-header h2 {
